@@ -168,9 +168,9 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ecef00 !important;
-  border-color: #ecef00 !important;
-  color: #000000 !important;
+  background-color: #ef0000 !important;
+  border-color: #ef0000 !important;
+  color: #ffffff !important;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
